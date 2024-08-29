@@ -17,43 +17,40 @@ My passion for e-commerce goes beyond coding; I’ve actively contributed to dis
 
 <div align="center">
   <a href="https://www.java.com" target="_blank">
-      <img align="left" height="50" src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg' alt="Java">
+      <img align="left" height="40" src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg' alt="Java">
   </a>
   <a href="https://spring.io" target="_blank">
-      <img align="left" height="50" src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg' alt="Spring">
+      <img align="left" height="40" src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg' alt="Spring">
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-      <img align="left" height="50" src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg' alt="JavaScript">
+      <img align="left" height="40" src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg' alt="JavaScript">
   </a>
   <a href="https://www.typescriptlang.org" target="_blank">
-      <img align="left" height="50" src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg' alt="TypeScript">
+      <img align="left" height="40" src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg' alt="TypeScript">
   </a>
   <a href="https://nodejs.org" target="_blank">
-      <img align="left" height="50" src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg' alt="Node.js">
+      <img align="left" height="40" src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg' alt="Node.js">
   </a>
   <a href="https://react.dev" target="_blank">
-      <img align="left" height="50" src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg' alt="React">
+      <img align="left" height="40" src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg' alt="React">
   </a>
   <a href="https://www.python.org" target="_blank">
-      <img align="left" height="50" src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg' alt="Python">
+      <img align="left" height="40" src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg' alt="Python">
   </a>
   <a href="https://www.docker.com" target="_blank">
-      <img align="left" height="50" src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg' alt="Docker">
+      <img align="left" height="40" src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg' alt="Docker">
   </a>
   <a href="https://www.mongodb.com" target="_blank">
-      <img align="left" height="50" src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg' alt="MongoDB">
-  </a>
-  <a href="https://www.mysql.com" target="_blank">
-      <img align="left" height="50" src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg' alt="MySQL">
+      <img align="left" height="40" src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg' alt="MongoDB">
   </a>
   <a href="https://www.postgresql.org" target="_blank">
-      <img align="left" height="50" src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain.svg' alt="PostgreSQL">
+      <img align="left" height="40" src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain.svg' alt="PostgreSQL">
   </a>
   <a href="https://www.salesforce.com" target="_blank">
-      <img align="left" height="50" src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/salesforce/salesforce-original.svg' alt="Salesforce">
+      <img align="left" height="40" src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/salesforce/salesforce-original.svg' alt="Salesforce">
   </a>
   <a href="https://wordpress.org" target="_blank">
-      <img align="left" height="50" src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-plain.svg' alt="WordPress">
+      <img align="left" height="40" src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-plain.svg' alt="WordPress">
   </a>
 </div>
 
