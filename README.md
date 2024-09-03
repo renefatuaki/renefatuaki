@@ -19,6 +19,9 @@ My passion for e-commerce goes beyond coding; I’ve actively contributed to dis
   <a href="https://www.java.com" target="_blank">
       <img align="left" height="40" src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg' alt="Java">
   </a>
+  <a href="https://kotlinlang.org" target="_blank">
+      <img align="left" height="40" src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg' alt="Java">
+  </a>
   <a href="https://spring.io" target="_blank">
       <img align="left" height="40" src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg' alt="Spring">
   </a>
