@@ -34,26 +34,20 @@ My passion for e-commerce goes beyond coding; I’ve actively contributed to dis
   <a href="https://nodejs.org" target="_blank">
       <img align="left" height="40" src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg' alt="Node.js">
   </a>
+  <a href="https://angular.dev" target="_blank">
+      <img align="left" height="40" src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg' alt="Angular">
+  </a>
   <a href="https://react.dev" target="_blank">
       <img align="left" height="40" src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg' alt="React">
   </a>
-  <a href="https://www.python.org" target="_blank">
-      <img align="left" height="40" src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg' alt="Python">
-  </a>
   <a href="https://www.docker.com" target="_blank">
       <img align="left" height="40" src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg' alt="Docker">
-  </a>
-  <a href="https://www.mongodb.com" target="_blank">
-      <img align="left" height="40" src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg' alt="MongoDB">
   </a>
   <a href="https://www.postgresql.org" target="_blank">
       <img align="left" height="40" src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain.svg' alt="PostgreSQL">
   </a>
   <a href="https://www.salesforce.com" target="_blank">
       <img align="left" height="40" src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/salesforce/salesforce-original.svg' alt="Salesforce">
-  </a>
-  <a href="https://wordpress.org" target="_blank">
-      <img align="left" height="40" src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-plain.svg' alt="WordPress">
   </a>
 </div>
 
