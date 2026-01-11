@@ -1,55 +1,42 @@
 # Hey 👋, I'm René El Fatuaki!
 
-I’m a Full Stack Developer with a strong focus on e-commerce. My journey began during my bachelor’s degree in computer science, where I specialized in e-commerce. Over the years, I’ve built robust and scalable applications, enhancing online shopping experiences through both frontend and backend technologies.
+Software Engineer at **Deutsche Rentenversicherung**, where I develop the customer portal — a platform enabling citizens to manage their pension matters digitally. I focus on building reliable, scalable solutions and enjoy working across the full stack.
 
-In addition to my practical experience, I hold several key certifications that underscore my technical and professional growth:
+## 🛠️ Tech Stack
 
-* Certified Professional for Requirements Engineering (Feb 2022): Expertise in requirements engineering, including scope and documentation.
-* Deep Learning for Computer Vision (Apr 2020): Skills in machine learning and neural networks from Hasso-Plattner-Institut.
-* Scrum Master Empirical (Feb 2020): Proficient in Scrum, with a focus on agile project management.
+**Languages**
 
-## 📝 Publications
-My passion for e-commerce goes beyond coding; I’ve actively contributed to discussions on the evolution of omnichannel strategies and unified commerce, always aiming to stay ahead of industry trends.
-* [Unified Commerce – The future of commerce](https://www.adesso.de/en/news/blog/blog-detail-page_108160.jsp)
-* [Die nächste Evolutionsstufe des Omnichannel](https://www.marketing-boerse.de/fachartikel/details/2245-unified-commerce-die-naechste-evolutionsstufe-des-omnichannel/188008)
+[<img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="Java" title="Java" />](https://www.java.com)
+&nbsp;&nbsp;
+[<img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" alt="Kotlin" title="Kotlin" />](https://kotlinlang.org)
+&nbsp;&nbsp;
+[<img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="JavaScript" title="JavaScript" />](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+&nbsp;&nbsp;
+[<img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" alt="TypeScript" title="TypeScript" />](https://www.typescriptlang.org)
+&nbsp;&nbsp;
+[<img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swift/swift-original.svg" alt="Swift" title="Swift" />](https://www.swift.org)
+&nbsp;&nbsp;
 
-## 🔨 Languages and Tools:
+**Frameworks**
 
-<div align="center">
-  <a href="https://www.java.com" target="_blank">
-      <img align="left" height="40" src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg' alt="Java">
-  </a>
-  <a href="https://kotlinlang.org" target="_blank">
-      <img align="left" height="40" src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg' alt="Java">
-  </a>
-  <a href="https://spring.io" target="_blank">
-      <img align="left" height="40" src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg' alt="Spring">
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-      <img align="left" height="40" src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg' alt="JavaScript">
-  </a>
-  <a href="https://www.typescriptlang.org" target="_blank">
-      <img align="left" height="40" src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg' alt="TypeScript">
-  </a>
-  <a href="https://nodejs.org" target="_blank">
-      <img align="left" height="40" src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg' alt="Node.js">
-  </a>
-  <a href="https://angular.dev" target="_blank">
-      <img align="left" height="40" src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg' alt="Angular">
-  </a>
-  <a href="https://react.dev" target="_blank">
-      <img align="left" height="40" src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg' alt="React">
-  </a>
-  <a href="https://www.docker.com" target="_blank">
-      <img align="left" height="40" src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg' alt="Docker">
-  </a>
-  <a href="https://www.postgresql.org" target="_blank">
-      <img align="left" height="40" src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain.svg' alt="PostgreSQL">
-  </a>
-  <a href="https://www.salesforce.com" target="_blank">
-      <img align="left" height="40" src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/salesforce/salesforce-original.svg' alt="Salesforce">
-  </a>
-</div>
+[<img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" alt="Spring" title="Spring" />](https://spring.io)
+&nbsp;&nbsp;
+[<img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" alt="Node.js" title="Node.js" />](https://nodejs.org)
+&nbsp;&nbsp;
+[<img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" alt="Angular" title="Angular" />](https://angular.dev)
+&nbsp;&nbsp;
+[<img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" alt="React" title="React" />](https://react.dev)
+&nbsp;&nbsp;
+[<img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" alt="Next.js" title="Next.js" />](https://nextjs.org)
+&nbsp;&nbsp;
 
-<br><br><br>
-<p align="right"><img src="https://komarev.com/ghpvc/?username=renefatuaki" alt="renefatuaki"/></p>
+**Other**
+
+[<img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain.svg" alt="PostgreSQL" title="PostgreSQL" />](https://www.postgresql.org)
+&nbsp;&nbsp;
+[<img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" alt="Docker" title="Docker" />](https://www.docker.com)
+&nbsp;&nbsp;
+
+<br>
+
+<p align="right"><img src="https://komarev.com/ghpvc/?username=renefatuaki" alt="Profile views"/></p>
